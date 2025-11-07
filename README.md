@@ -1,4 +1,4 @@
-# Diabetes-Prediction---ML
+# Diabetes-Prediction-ML
 
 ## Problem Description
 Diabetes is a chronic disease that affects how the body regulates blood sugar. Undiagnosed or poorly managed diabetes can lead to serious complications, including heart disease, kidney failure, and nerve damage. Early identification of individuals at risk can help guide timely intervention and lifestyle changes to prevent the disease.
@@ -58,8 +58,8 @@ The results show that even with a limited set of features, the model performs co
 
 2. **Clone the repository:**
     ```
-    git clone https://github.com/DylanD-H/Diabetes-Prediction---ML.git
-    cd Diabetes-Prediction---ML
+    git clone https://github.com/DylanD-H/Diabetes-Prediction-ML.git
+    cd Diabetes-Prediction-ML
     ```
 3. **Build the Docker image:**
     ```
