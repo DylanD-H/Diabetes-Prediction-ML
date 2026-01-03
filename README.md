@@ -79,5 +79,5 @@ The results show that even with a limited set of features, the model performs co
    ```
    python Scripts/patient.py
    ```
-   This will return the predicted probability that the patient has diabetes. The optimal threshold for classifying a patient as diabitic in this model is 0.45. You can adjust the input numbers in this file to experiment with different patient scenarios.
+   This will return the predicted probability that the patient has diabetes. The optimal threshold for classifying a patient as diabetic in this model is 0.45. You can adjust the input numbers in this file to experiment with different patient scenarios.
  
